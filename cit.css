@@ -63,9 +63,6 @@ header{
 	padding:5px 20px;
 	font-family:cursive;
 	font-size: 14px;
-	display:inline-block;
-	border-radius: 5px;
-	background-color: pink;
 	
 }
 .nav-area li a:hover{
